@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+const { Savatora } = require("./bin/Savatora.js");
+Savatora.cmd();

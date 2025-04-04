@@ -1,0 +1,29 @@
+{
+    "name": "savatora",
+    "version": "0.0.1",
+    "description" : "Server applications for Node.js.",
+    "author": "masato nakatsuji",
+    "bin": {
+        "savatora": "savatora"
+    },
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "keywords": [
+        "node",
+        "npm",
+        "server",
+        "savatora"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/masatonakatsuji2021/savatora.git"
+    },
+    "bugs": {
+        "url": "https://github.com/masatonakatsuji2021/savatora/issues"
+    },
+    "homepage": ""
+}
